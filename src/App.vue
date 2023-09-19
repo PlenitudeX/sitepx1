@@ -3,7 +3,7 @@ import HelloWorld from './components/HelloWorld.vue'
 import Header from './components/Header.vue';
 import Banner from './components/Banner.vue';
 </script>
-  
+
 <template>
     <Header />
     <Banner />
@@ -16,6 +16,7 @@ import Banner from './components/Banner.vue';
       </a>
     </div>
     <HelloWorld msg="Vite + Vue" />
+    oioi
 </template>
 
 <style scoped>
